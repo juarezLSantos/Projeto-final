@@ -10,10 +10,15 @@ ACESSO AO PROJETO
 
 A partir da criação de Login e Senha é possível acessar o site do projeto,conhecer todos os serviços e ainda se necessitar entrar em contato por meio das redes sociais disponiveis na página.
 
-FUNCIONALIDADES E DEMONSTRAÇÃO
+DESCRIÇÃO DO PROJETO
 
 
-O Projeto,buscando o compromisso em contribuir com um mundo melhor,promete benefícios àqueles que se comprometem com a coleta seletiva,separando e encaminhando materiais recicláveis aos pontos de coletas disponíveis e para isso tem no próprio site informações importantes a respeito da localização.Os benefícios são diversos:objetos para o lar,acessórios pessoais,a depender da quantidade de material dispensado.
+O Projeto,buscando o compromisso em contribuir com um mundo melhor,comprometendo-se em benefíciar àqueles que se comprometem com a coleta seletiva,separando e encaminhando materiais recicláveis aos pontos de coletas disponíveis e para isso tem no próprio site informações importantes a respeito da localização.Os benefícios são diversos:objetos para o lar,acessórios pessoais,a depender da quantidade de material dispensado.
+
+
+FUNCIONALIDADES
+
+
 
 TECNOLOGIAS UTILIZADAS
 
@@ -38,3 +43,10 @@ TECNOLOGIAS UTILIZADAS
 ~[JulianaAlves](https://github.com/JulianaAMatos)
 
 
+
+CONTRIBUIÇÃO 
+
+Estamos à sua disposição para sugestões,idéias,críticas,comentários,ou quaisquer dúvidas.E mais importante contamos com a sua colaboração com o nosso projeto.Sintam-se bem-vindos!
+
+
+LICENÇA
